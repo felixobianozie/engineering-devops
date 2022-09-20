@@ -1,0 +1,1 @@
+This directory is concerned with basic automation procedures by DevOps engineers using bash (technically not the most efficient for automation, but a basic intro project). If configuring several servers at once == being lazy, then lazy is a good thing! Lolz.
