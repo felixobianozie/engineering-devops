@@ -1,3 +1,3 @@
 # 0x0F-load_balancer
 
-This project is all about setting up a better web infrastructure to improve performance and availability.
+In this project, I set up a better web infrastructure to improve performance and availability. A load balancer was included and setup using the roundrobin load balancing algorithm. 
